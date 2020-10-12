@@ -2,8 +2,6 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import numpy as np
 from matplotlib import pylab as pl
-import numpy as np
-import matplotlib as mpl
 from matplotlib.colors import ListedColormap
 
 data = np.random.rand(6,6)
