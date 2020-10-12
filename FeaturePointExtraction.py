@@ -16,8 +16,6 @@ from mlxtend.preprocessing import minmax_scaling
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import RobustScaler
 import pandas as pd
-import pandas as pd
-import numpy as np
 from sklearn import preprocessing
 import matplotlib
 import matplotlib.pyplot as plt
