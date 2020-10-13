@@ -1,3 +1,5 @@
+# Author: krycho23
+
 # Comparison of robust scaler and min max scaler
 
 # For first 6 matplotlib plots i used constant and linear data with outliers what is visualised in first 2 plots in next 2 plots i used min max scaler and then in last 2 plots i used robust scaler
