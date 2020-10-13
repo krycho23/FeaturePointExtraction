@@ -1,0 +1,19 @@
+{
+	"base_path" : "InputImages/",
+	"base_path2" : "",
+	"base_path3" : "OutputImages/",
+	"left_image" : "im0.png",
+	"right_image" : "im1.png",
+	"ground_truth" : "disp0GT.pfm",
+	"disp" : "disp.txt",
+	"calib": "calib.txt",
+	"relative_error" : "relative_error.txt",
+	"ground" : "ground.txt",
+	"match_factor" : "match_factor.txt",
+	"method": ["zero_crossing_", "corner_", "block_"],
+	"dataset": ["test/", "training/", "trainingDisp/"],
+	"measure": ["bad2.0_"],
+	"image_type": ["disp_map_", "error_map_", "histogram_", "histogram_feature_", "histogram_ground_truth_", "histogram_disparity_"],
+	"scale": {"1":"FullSize/", "2":"HalfSize/", "4":"QuarterSize/"},
+	"ground_truth_png": "ground_truth.png"
+}
